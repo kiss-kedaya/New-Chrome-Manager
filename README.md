@@ -9,7 +9,7 @@
 
 
 
-  <strong>作者：你的名字</strong>  
+  <strong>作者：KEDAYA</strong>  
   <span title="本项目为原版Chrome多窗口管理器的二次创作，原作者：Devilflasher"></span>
 
 </div>
